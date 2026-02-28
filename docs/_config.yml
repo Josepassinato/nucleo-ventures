@@ -1,0 +1,13 @@
+title: Núcleo Ventures
+description: Autonomous AI Directory Framework - Crie uma diretoria de IA que roda seu negócio 100% autônoma
+theme: jekyll-theme-minimal
+logo: /assets/logo.png
+show_downloads: true
+github:
+  is_project_page: true
+  repository_url: https://github.com/Josepassinato/nucleo-ventures
+  zip_url: https://github.com/Josepassinato/nucleo-ventures/archive/refs/heads/main.zip
+  tar_url: https://github.com/Josepassinato/nucleo-ventures/archive/refs/heads/main.tar.gz
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
